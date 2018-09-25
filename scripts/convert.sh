@@ -1,7 +1,10 @@
 #!/bin/bash
 
 ### INSERT YOUR CODE BELOW ###
+# Example:
+# dcm2bids -d /bind/hw2/raw/IBRAIN002/ -p IBRAIN002 -c /bind/hw2/scripts/dcm2bids.json -o /bind/hw2/bids/
 
+dcm2bids -d /bind/hw2/raw/IBRAIN002/ -p $1 -c /bind/hw2/scripts/dcm2bids.json -o /bind/hw2/bids/
 
 ### DO NOT MODIFY THE LINES BELOW ###
 uname -a > info_host.txt

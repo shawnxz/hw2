@@ -5,7 +5,7 @@
           "modalityLabel": "sbref",
           "customLabels": "task-words",
           "criteria": {
-              "ProtocolName": "INSERT Correct ProtocolName",
+              "ProtocolName": "007_IBRAIN002_fMRI_words_run1_20171114132143",
               "ImageComments": "Single-band_reference",
               "PhaseEncodingDirection": "j-"
           }
@@ -15,7 +15,7 @@
           "modalityLabel": "bold",
           "customLabels": "task-words",
           "criteria": {
-              "ProtocolName": "INSERT Correct ProtocolName",
+              "ProtocolName": "008_IBRAIN002_fMRI_words_run1_20171114132143.nii.gz",
               "ImageComments": "Unaliased_MB4_PE3_LB",
               "PhaseEncodingDirection": "j-"
           }
@@ -25,7 +25,7 @@
           "modalityLabel": "sbref",
           "customLabels": "task-motor",
           "criteria": {
-              "ProtocolName": "INSERT Correct ProtocolName",
+              "ProtocolName": "013_IBRAIN002_fMRI_motor_localizer_20171114132143.nii.gz",
               "ImageComments": "Single-band_reference",
               "PhaseEncodingDirection": "j-"
           }
@@ -35,7 +35,7 @@
           "modalityLabel": "bold",
           "customLabels": "task-motor",
           "criteria": {
-              "ProtocolName": "INSERT Correct ProtocolName",
+              "ProtocolName": "014_IBRAIN002_fMRI_motor_localizer_20171114132143.nii.gz",
               "ImageComments": "Unaliased_MB4_PE3_LB",
               "PhaseEncodingDirection": "j-"
           }
